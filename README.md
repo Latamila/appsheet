@@ -41,10 +41,6 @@ Qualquer customização que queira minha ajuda ou uma inspiração, não exite e
                     <span class="text">Para instalar o WebApp</span>
                 </a>
             </li>
-             <li class="list">
-                <a href="https://storage.googleapis.com/appsheet-prod-whitelabel/apks/apk-e6ba5fcf-3e99-4fc2-a2af-8f1ddc2e80cc.apk?GoogleAccessId=appsheet-whitelabeller%40appsheet-prod.iam.gserviceaccount.com&Expires=1671494400&Signature=HbN8x%2FIaIQzthzUHZE1o78R3kJF69PCQQBMrSzJBaNJlwzu5%2BfiK%2BA11okZfY%2BLUMcYtlmMYiZ2CmZKxME2rjLa4y%2B3rU65XDHmeMcAtcU%2FjJBYWkCFXxNTBIz%2FefQ9eDMkhExVO8BB5jmsDmfzT4Zzz95kSLq7DuoXyKwWUono9rEO7NnKh30J3Flb1JVFUZvGmS90XkGOt8AvBsJDEyLJ1Iv3NhND7OlpL6GfsjgpaU6LXjzFnJKYyXGxeTKte1HzkchJS1ARGTZPZlTTJ0gTPr%2BcUKIp%2F6ShDic3ercHMYWOZ3XSCW%2FK%2BQxvk8Es0dRu8M2slWyAhzS2bxYBnPA%3D%3D">
-                    <span class="text">Para instalar o WebApp</span>
-                </a>
             </li>
             <li class="list">
                 <a href="https://nubank.com.br/pagar/16vmk/IR1lITv8p3">
